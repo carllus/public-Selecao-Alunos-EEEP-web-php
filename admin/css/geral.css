@@ -1,0 +1,107 @@
+* { padding:0px; margin:0px; font-family:Arial, Helvetica, sans-serif; }
+
+#layout { width:995px; margin:auto; }
+
+#topo { width:995px; no-repeat right 34px; }
+
+#topo h2 { float:right; margin-top:-49px; margin-right:10px; font-size:15px; letter-spacing:4px; }
+
+#barra {
+	color:#fff;
+	background:url(../images/back_top01.jpg) repeat-x ;
+	height:46px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	position:relative;
+	top:0px;
+	}
+	
+#data {
+	padding: 15px;
+	float:left;
+	position:relative;
+	height:0px;
+	z-index:100px;
+	top:-45px;
+}
+
+#esquerda {
+	background:url(../images/_back_left_top.jpg) bottom left no-repeat;
+	z-index:1000px;
+	width:7px;
+	height:46px;
+	position:relative;
+}
+
+#central{
+background-image:url('../images/mota_filho.jpg');
+
+}
+
+#area2 {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#666666;
+	font-size:11px;
+	border: 2px solid #E4E4E4;
+	width: 320px;
+	height: 320px;
+	position: relative;
+	left:655px;
+	padding:8px;
+	margin:20px 0px 20px 0;
+	}
+
+.interno {
+	padding-top: 20px;
+	padding-left: 20px;
+}	
+
+.interno h3 {
+	color: #666666;
+	font-size:18px;
+}
+
+.senha {
+	padding-right: 7px;
+
+}
+
+.esquerda {
+	background:url(../images/_back_left_top.jpg);
+	position:relative;
+	z-index:1000px;
+	width:150px;
+	border:10px;
+	border: 1px solid red;
+}
+
+input {
+	background:#FFFFFF none repeat scroll 0%;
+	border:medium none;
+	color:#949494;
+	font-family:arial;
+	font-size:11px;
+	margin: 4px 4px 0px 0px;
+	padding:4px;
+}
+
+.botao {
+	background:#CCCCCC;
+	color:#333333;	
+}
+
+#area {
+	background:#E4E4E4;
+	height:320px;
+}
+
+#brasao_governo {
+	background:transparent url(../images/brasao_govCe.jpg) no-repeat scroll 0%;
+	width:146px;
+	float:right;
+	height:200px;
+	position:relative;
+	top:-123px;
+
+}	
+#rodape   { width:995; text-align:center; font-size:11px; background:url(../images/back_rodape.png) repeat-x; height:25px; padding-top:40px; }

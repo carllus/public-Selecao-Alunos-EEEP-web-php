@@ -1,0 +1,11 @@
+/* CSS Document */
+#barra #top_right {margin-top:-26px;}
+#menu_context {height:600px;}
+#menu_context ul {margin-top:0px;}
+#menu_context ul li {margin:-5px 0 -5px 0;}
+
+#atalhos { background:url(../images/atalhos.png) no-repeat bottom right; float:left; width:205px; height:34px; margin-top:33px; }
+
+#home,
+#contatos,
+#mapa {margin-left:20px;}
